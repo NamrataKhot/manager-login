@@ -1,4 +1,4 @@
-package com.example.entity;
+package com.example.demo.entity;
 
 public class AuthanticationResponse {
 	private final String jwt;
